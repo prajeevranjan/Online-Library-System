@@ -41,13 +41,13 @@ online-library-system/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/online-library-system.git
+https://github.com/prajeevranjan/Online-Library-System.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd online-library-system
+cd Online-Library-System
 ```
 
 Install dependencies:
@@ -117,7 +117,12 @@ Through this project, I gained experience in:
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
+<img width="1919" height="967" alt="Screenshot 2026-06-12 155928" src="https://github.com/user-attachments/assets/d17711d8-2b53-49c7-b826-d4ebe5016ccf" />
+<img width="1919" height="970" alt="Screenshot 2026-06-12 155909" src="https://github.com/user-attachments/assets/0baee813-650a-4c35-bd8a-83ca29adcaf4" />
+<img width="1914" height="972" alt="Screenshot 2026-06-12 155828" src="https://github.com/user-attachments/assets/98e90688-1a11-4e50-ae93-769e23a4197f" />
+<img width="1914" height="966" alt="Screenshot 2026-06-12 155852" src="https://github.com/user-attachments/assets/4a5da904-ed76-4aad-8762-6d06b954932f" />
+
+
 
 ## 👨‍💻 Author
 
